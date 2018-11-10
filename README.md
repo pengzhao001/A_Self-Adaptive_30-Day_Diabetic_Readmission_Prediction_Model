@@ -2,11 +2,11 @@
 
 Self-adaptive_30-day_Diabetic_Readmission_Prediction_Model
 
-#	Tools: 
+#	Tools 
 
 Python, Weka, MOA
 
-# Data: 
+# Data
 
 A de-identified diabetic readmission dataset available on the UCI Machine Learning Repository. 
 
