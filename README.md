@@ -1,6 +1,6 @@
 # Project Title 
 
-Self-adaptive_30-day_Diabetic_Readmission_Prediction_Model
+A self-adaptive 30-day diabetic readmission prediction model based on incremental learning
 
 #	Tools 
 
