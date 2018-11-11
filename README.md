@@ -12,7 +12,7 @@ A de-identified diabetic readmission dataset available on the UCI Machine Learni
 
 ## Background
 
-Hospital readmission is defined is hospitalized again after being discharged from an initial admission within a short period (normally 30 days). Readmissions within 30 days account for $15 billion in Medicare expenditures annually in the US. Readmission predictive models can help to target the limited medical resources to high-risk patients to help reduce readmissions. With the volume of medical data keeps growing, readmission predictive models built with historical data can get outdated and become less accurate over time. It's expensive to re-train models manually in health care settings. 
+Hospital readmission is defined as a patient is hospitalized again after being discharged from an initial admission within a short period (normally 30 days). Readmissions within 30 days account for $15 billion in Medicare expenditures annually in the US. Readmission predictive models can help to target the limited medical resources to high-risk patients to help reduce readmissions. With the volume of medical data keeps growing, readmission predictive models built with historical data can get outdated and become less accurate over time. It's expensive to re-train models manually in health care settings. 
 
 ## Goal
 
